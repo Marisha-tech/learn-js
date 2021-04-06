@@ -56,7 +56,7 @@ console.log(result) */
 
 
 
-// Перепишите 'if..else' в '?'
+/* // Перепишите 'if..else' в '?'
 // let message;
 
 // if (login == 'Сотрудник') {
@@ -74,4 +74,4 @@ let message = (login === 'Сотрудник') ? 'Привет' :
 (login == 'Директор') ? 'Здравствуйте' :
 (login == '') ? 'Нет логина':
 ''
-alert(message)
+alert(message) */
